@@ -23,6 +23,7 @@ namespace DisplayDate
         public MainWindow()
         {
             int y = 6;
+            int x = 5;
             InitializeComponent();
 
         }
