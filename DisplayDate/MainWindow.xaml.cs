@@ -22,7 +22,7 @@ namespace DisplayDate
     {
         public MainWindow()
         {
-            int y = 6;
+            string y = "rivki";
             int x = 5;
             InitializeComponent();
 
